@@ -19,4 +19,7 @@ appropriate sets based on distribution, ensuring features are all the same lengt
 experimental protocol used, normalizing features based on training set. Creating the arrays. 
 Shuffling the cells one final time.
 
+feature_extraction notebooks show development of features from single cell, multi cell, to 
+full feature and verification of performance.
+
 Future updates for the prototypical network coming
